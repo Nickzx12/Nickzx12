@@ -1,16 +1,15 @@
 ## Hi there 👋
+<style>
+  
+</style>
 
-<!--
-**Nickzx12/Nickzx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nickzx12's Stats](https://github-readme-stats.vercel.app/api?username=Nickzx12&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-Here are some ideas to get you started:
+![Nickzx12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nickzx12&theme=highcontrast&hide_border=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nickzx12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickzx12&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+
+
+
+
+
